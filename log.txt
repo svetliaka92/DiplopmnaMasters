@@ -1,0 +1,9 @@
+Date: 18/09/2017 at: 02:49:57. Rezult for exercise: 4.970166 seconds.
+Date: 18/09/2017 at: 02:50:29. Rezult for exercise: 4.340461 seconds.
+Date: 18/09/2017 at: 02:51:19. Rezult for exercise: 2.302342 seconds.
+Date: 18/09/2017 at: 03:46:18. Rezult for exercise: 4.10958 seconds.
+Date: 21/09/2017 at: 02:14:42. Rezult for exercise: 0 seconds.
+Date: 21/09/2017 at: 02:15:17. Rezult for exercise: 0 seconds.
+Date: 21/09/2017 at: 02:15:33. Rezult for exercise: 0 seconds.
+Date: 21/09/2017 at: 02:16:18. Rezult for exercise: 4.274199 seconds.
+Date: 21/09/2017 at: 02:17:00. Rezult for exercise: 10.93505 seconds.

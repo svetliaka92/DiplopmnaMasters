@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 3ad33417228e3c64b9a115c8b38926e4
+timeCreated: 1484486876
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: ArmLeft
+    100004: ArmRight
+    100006: ChestLeft
+    100008: ChestRight
+    100010: Cube
+    100012: ForearmLeft
+    100014: ForearmRight
+    100016: //RootNode
+    100018: IndexMidLeft
+    100020: IndexMidRight
+    100022: IndexPalmLeft
+    100024: IndexPalmRight
+    100026: IndexStartLeft
+    100028: IndexStartRight
+    100030: IndexTipLeft
+    100032: IndexTipRight
+    100034: MiddleMidLeft
+    100036: MiddleMidRight
+    100038: MiddlePalmLeft
+    100040: MiddlePalmRight
+    100042: MiddleStartLeft
+    100044: MiddleStartRight
+    100046: MiddleTipLeft
+    100048: MiddleTipRight
+    100050: PinkyMidLeft
+    100052: PinkyMidRight
+    100054: PinkyPalmLeft
+    100056: PinkyPalmRight
+    100058: PinkyStartLeft
+    100060: PinkyStartRIght
+    100062: PinkyTipLeft
+    100064: PinkyTipRight
+    100066: RingMidLeft
+    100068: RingMidRIght
+    100070: RingPalmLeft
+    100072: RingPalmRight
+    100074: RingStartLeft
+    100076: RingStartRight
+    100078: RingTipLeft
+    100080: RingTipRight
+    100082: Spine
+    100084: Spine_006
+    100086: Spine_007
+    100088: ThumbPalmLeft
+    100090: ThumbPalmRight
+    100092: ThumbStartLeft
+    100094: ThumbTipLeft
+    100096: WristLeft
+    100098: WristRight
+    400000: Armature
+    400002: ArmLeft
+    400004: ArmRight
+    400006: ChestLeft
+    400008: ChestRight
+    400010: Cube
+    400012: ForearmLeft
+    400014: ForearmRight
+    400016: //RootNode
+    400018: IndexMidLeft
+    400020: IndexMidRight
+    400022: IndexPalmLeft
+    400024: IndexPalmRight
+    400026: IndexStartLeft
+    400028: IndexStartRight
+    400030: IndexTipLeft
+    400032: IndexTipRight
+    400034: MiddleMidLeft
+    400036: MiddleMidRight
+    400038: MiddlePalmLeft
+    400040: MiddlePalmRight
+    400042: MiddleStartLeft
+    400044: MiddleStartRight
+    400046: MiddleTipLeft
+    400048: MiddleTipRight
+    400050: PinkyMidLeft
+    400052: PinkyMidRight
+    400054: PinkyPalmLeft
+    400056: PinkyPalmRight
+    400058: PinkyStartLeft
+    400060: PinkyStartRIght
+    400062: PinkyTipLeft
+    400064: PinkyTipRight
+    400066: RingMidLeft
+    400068: RingMidRIght
+    400070: RingPalmLeft
+    400072: RingPalmRight
+    400074: RingStartLeft
+    400076: RingStartRight
+    400078: RingTipLeft
+    400080: RingTipRight
+    400082: Spine
+    400084: Spine_006
+    400086: Spine_007
+    400088: ThumbPalmLeft
+    400090: ThumbPalmRight
+    400092: ThumbStartLeft
+    400094: ThumbTipLeft
+    400096: WristLeft
+    400098: WristRight
+    4300000: Cube
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
